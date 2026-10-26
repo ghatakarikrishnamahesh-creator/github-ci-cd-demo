@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello from GitHub CI/CD!");
+        System.out.println("Hello to CI/CD!");
     }
 }
